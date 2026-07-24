@@ -17,7 +17,6 @@ is to verify the application's functionality, usability, reliability, and overal
 - ✅ Functional Testing
 - 🎨 UI Testing
 - 👨‍💻 Usability Testing
-- 🔄 Regression Testing
 - 📏 Boundary Value Testing
 - ❌ Negative Testing
 - 🌐 Compatibility Testing
