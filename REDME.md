@@ -63,7 +63,7 @@ is to verify the application's functionality, usability, reliability, and overal
 - 📸 Bug Screenshot
 - 💬 Dev Comments
 - ✔️ Status (Pass/Fail)
-- # 📝 Remarks
+- 📝 Remarks
 
 # 🐞 Bug Reports:
 - 🆔 Bug ID
