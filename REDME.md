@@ -93,11 +93,11 @@ is to verify the application's functionality, usability, reliability, and overal
 - ⚡ Priority
 - 🧪 Test Execution Status
 
-#⚡  Defect Priority
--🔥  P0 - Critical 
--⚡  P1 - High
--📌  P2 - Medium 
--📄  P3 - Low 
+# ⚡  Defect Priority:
+- 🔥  P0 - Critical 
+- ⚡  P1 - High
+- 📌  P2 - Medium 
+- 📄  P3 - Low 
 
 # 🛠️ Tools Used:
 - 📊 Microsoft Excel
