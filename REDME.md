@@ -1,10 +1,10 @@
 #🛡️Manual Testing Project
 
 # 📖 Project Overview:
-This repository contains all the manual testing artifacts for the **shop.shajgoj.com** website. The objective of this project
-is to verify the application's functionality, usability, reliability, and overall quality through comprehensive manual testing.
+This repository contains all the manual testing artifacts for the **shop.shajgoj.com** website. The objective of this project is to verify the application's functionality, usability, reliability, and overall quality through comprehensive manual testing.
 
 #📌Project Information:
+
 #📂Modules Tested:
 - 🔍 Product Search
 - 🎛️ Product Filter
@@ -125,3 +125,5 @@ is to verify the application's functionality, usability, reliability, and overal
 - ❌ Negative Testing
 - 📊 Test Documentation
 
+## 👨‍💻 Author:
+Tasmin Jannat Tahsin
