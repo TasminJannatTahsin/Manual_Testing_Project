@@ -1,4 +1,4 @@
-# 🛡️ Manual Testing Project
+# 🛡️ Manual Testing Project of a website
 
 ## 📖 Project Overview
 
